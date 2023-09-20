@@ -35,7 +35,7 @@ The goal is to eat the food and grow the snake while avoiding collisions with th
 
 ## Possible Errors and Portability
 
-The code includes several header files (`conio.h` and `windows.h`) that are not standard C++ headers. These headers are platform-specific and may not be available on all systems. This code may not be easily portable to different operating systems. To make the code more portable, consider using cross-platform alternatives for console input and output functions, as mentioned in the previous response.
+The code includes several header files (`conio.h` and `windows.h`) that are not standard C++ headers. These headers are platform-specific and may not be available on all systems. This code may not be easily portable to different operating systems. To make the code more portable, consider using cross-platform alternatives for console input and output functions.
 
 ## Credits
 
